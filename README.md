@@ -26,8 +26,10 @@ And, the list goes on
 
 Webshots:
 
-
+Search Page for Reviews 
 ![image](https://user-images.githubusercontent.com/90195436/144438389-a37fb803-8603-42de-89f3-64fc54997264.png)
+
+Results Page for Reviews
 ![image](https://user-images.githubusercontent.com/90195436/144438495-1209a58e-e07f-4162-84de-d01367542929.png)
-![Uploading image.png…]()
+
 
