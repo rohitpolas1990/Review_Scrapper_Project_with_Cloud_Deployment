@@ -23,3 +23,11 @@ And, the list goes on
 
 	Application Architecture:
 ![image](https://user-images.githubusercontent.com/90195436/141683365-31c65303-fa01-4e62-bb25-c846fc010c9d.png)
+
+Webshots:
+
+
+![image](https://user-images.githubusercontent.com/90195436/144438389-a37fb803-8603-42de-89f3-64fc54997264.png)
+![image](https://user-images.githubusercontent.com/90195436/144438495-1209a58e-e07f-4162-84de-d01367542929.png)
+![Uploading image.png…]()
+
